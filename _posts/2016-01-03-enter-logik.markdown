@@ -2,7 +2,8 @@
 layout: post
 title:  "Enter Logik"
 date:   2016-01-03 21:55:21 -0500
-categories: jekyll update
+categories: memoirs
+tags: memoirs
 ---
 
 Welcome to Quik Logik, both you and I.
