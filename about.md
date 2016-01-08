@@ -11,5 +11,5 @@ Quik Logik is a blog about:
 * Computational Biology
 * My personal memoirs
 
-For more details, see [my first blog post](/memoirs/2016/01/03/enter-logik.html)
+For more details, see [my first blog post](/memoirs/2016/01/04/enter-logik.html)
 
