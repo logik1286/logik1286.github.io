@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Get Pretty"
+title:  "Gettin' Pretty"
 date:   2016-01-06 11:22:00 -0500
 categories: memoirs
 tags: memoirs
