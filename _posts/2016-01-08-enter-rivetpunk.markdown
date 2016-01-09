@@ -11,6 +11,7 @@ Can't really write a blog on performance computing when my only computer is a da
 So I built my first computer ever today, and I was totally blown away by how easy it was (with some invaluable guidance from a friend). The system was running Ubuntu within four hours of FedEx dropping the parts off. No headaches, just forgot to plug in the CPU power cable.
 
 Normally I would try to grab an off the shelf system, however I specifically wanted an Intel processor with a top of the line integrated GPU. My gut tells me that integrated graphics are getting powerful enough to open up some interesting solutions for embedded HPC applications, so of course I want to look at them.  With Intel will supposedly only offering desktop/server GTe4 Iris Pro on the Xeons (which haven't come out yet), I opted to fall back onto a Broadwell i7-5775c, hopefully saving on costs. And not to mention time, since who knows if/when the Skylake e3-1500's will [arrive](http://wccftech.com/intel-skylake-xeon-e31200-v5-xeon-e31500-v5-cpu-lineup-detailed-powering-1s-workstation-platform/).         
+
 But good luck finding an off the shelf system with an i7-5775c. And rightfully so - I imagine most folks in the market for a high end desktop processor is likely in the market for a high end discrete GPU, defeating the point of an integrated GPU. So building a computer it was. And it was a great experience.
 
 Specifications:
