@@ -13,3 +13,4 @@ The idea was to present the algorithm implementation and performance analysis in
 But no more, it’s time to get the ball rolling. I really wanted to have the article embedded into the webpage, but it really is time to put something out there and move it. So here it is in it’s full, PDF glory:
 
 [Richardson-Lucy Deconvolution in ArrayFire](/resources/richardsonLucy/algorithmReport.pdf)
+[Source](https://github.com/logik1286/richardsonLucyArrayFire)
