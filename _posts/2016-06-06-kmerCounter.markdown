@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The K-Mer Counter"
-date:   2016-06-06 22:00:00 -0500
+date:   2016-06-06 20:00:00 -0500
 ---
 
 Part of my shenanigans since January involved developing an application that counts K-Mers, which are a specific sequence of DNA base pairs. I did this for a... programming challenge. I'd rather avoid the specific story of this challenge, however a good friend encouraged me to post my work on GitHub. Since, after all, I'm supposed to be all about this biocomputing stuff. Right?
