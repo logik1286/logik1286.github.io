@@ -9,7 +9,7 @@
 title: Quik Logik
 email: logik1286@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Performance scientific computing on a budget
+  High performance computing on a budget
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://quiklogik.com" # the base hostname & protocol for your site
 github_username:  logik1286
